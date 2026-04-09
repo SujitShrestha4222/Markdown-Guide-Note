@@ -33,7 +33,7 @@ Markdown makes it easy to add links and images.
 ![Logo](https://via.placeholder.com/100 "This is a logo")
 ```
 
-![Logo](https://thumbs.dreamstime.com/b/funny-monkey-face-maranhao-brasil-30428227.jpg) "This is image form google chrome---copied by right click on image->copy image address"
+![Logo](https://i.pinimg.com/736x/c3/48/ce/c348ceddcae9357ff1acfe3c09f2d872.jpg) "This is image form google chrome---copied by right click on image->copy image address"
 
 ---
 
@@ -47,8 +47,8 @@ You can link files in your repo:
 ```
 
 [README ho ma](/README.md)<---click this
-![Local Sujit's Image](/1.%20Basic_use/photoshop003.jpg)
-I am Sujit Shrestha.
+![Local Sujit's Image](/1.%20Basic_use/profile%20picture.jpg)
+### I am Sujit🧑🤳.
 
 
 ---
