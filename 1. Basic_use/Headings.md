@@ -1,11 +1,13 @@
-# 🔤 Headings in Markdown
-
+# 🔤 Headings in Markdown:
 Headings are used to structure your content.
+
+
 
 ---
 
-## ✅ Syntax
 
+
+## ✅ Syntax:
 ```md
 # H1
 ## H2
@@ -15,39 +17,41 @@ Headings are used to structure your content.
 ###### H6
 ```
 
+
+
 ---
 
-## 👀 Output
 
+
+## 👀 Output:
 # H1
-
 ## H2
-
 ### H3
-
 #### H4
-
 ##### H5
-
 ###### H6
 
+
+
 ---
 
-## 💡 Tips
 
+
+## 💡 Tips:
 * Use **only one H1 (`#`)** in a file (usually for the title)
 * Use H2 (`##`) for main sections
 * Keep hierarchy clean (don’t jump from H1 → H4)
 
+
+
 ---
 
-## 🎯 Real Use Case
 
+
+## 🎯 Real Use Case:
 Example of a README structure:
-
 ```md
 # Project Title
-
 ## Features
 ## Installation
 ## Usage

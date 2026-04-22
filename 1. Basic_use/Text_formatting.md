@@ -1,11 +1,13 @@
-# ✍️ Text Formatting in Markdown
-
+# ✍️ Text Formatting in Markdown:
 Markdown lets you style your text easily.
 
+
+
 ---
 
-## ✅ Bold & Italic
 
+
+## ✅ Bold & Italic:
 ```md
 **This is bold**
 *This is italic*
@@ -16,31 +18,41 @@ Markdown lets you style your text easily.
 *This is italic*
 ***Bold + Italic***
 
+
+
 ---
 
-## ✅ Strikethrough
 
+
+## ✅ Strikethrough:
 ```md
 ~~This is removed text~~
 ```
 
 ~~This is removed text~~
 
+
+
 ---
 
-## ✅ Inline Code
 
+
+## ✅ Inline Code:
 ```md
 Use `print()` in Python
 ```
 
 Use `print()` in Python
 
+
+
 ---
 
-## ✅ Code Block
 
-```python
+
+## ✅ Code Block:
+```md 
+python
 print("Hello World")
 ```
 
@@ -48,21 +60,26 @@ print("Hello World")
 print("Hello World")
 ```
 
+
+
 ---
 
-## 💡 Tips
 
+
+## 💡 Tips:
 * Use backticks (`) for code, not quotes (' ')
 * Use code blocks for better readability
 * Great for sharing code on GitHub
 
+
+
 ---
 
-## 🎯 Real Use Case
 
+
+## 🎯 Real Use Case:
 ```md
-## Example
-
+## Example:
 To install:
 
 \`\`\`bash
@@ -70,4 +87,4 @@ pip install numpy
 \`\`\`
 ```
 
-Clean and professional 🚀
+Looks Clean and professional 🚀.
