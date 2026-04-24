@@ -37,7 +37,8 @@ Blockquotes are used to highlight important text, notes, or messages.
 
 ## ✅ Nested Blockquote:
 ```md id="r4t9yb"
-> Main quote  
+> Main quote 
+> 
 >> Nested quote
 ```
 
