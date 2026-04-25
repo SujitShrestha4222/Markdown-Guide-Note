@@ -27,6 +27,7 @@ Badges are small icons that show info like build status, stars, version, etc.
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ```
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python\&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
@@ -70,6 +71,7 @@ A simple ML project...
 ```
 
 # My Project
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python\&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 
