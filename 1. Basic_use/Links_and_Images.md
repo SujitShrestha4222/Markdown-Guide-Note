@@ -57,8 +57,8 @@ You can link files in your repo:
 ![Local Image](images/my-image.png)
 ```
 
-[README ho ma](/README.md)<---click this
-![Local Sujit's Image](/1.%20Basic_use/profile%20picture.jpg)
+[README meeeee](/README.md)<---click this
+![Local Sujit's Image](/Profile_picture.jpg)
 ### I am Sujit🧑🤳.
 
 
